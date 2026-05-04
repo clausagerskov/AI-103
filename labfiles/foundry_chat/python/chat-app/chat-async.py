@@ -29,8 +29,6 @@ async def main():
             api_key=token_provider
         )
 
-        
-
         # Track responses
         last_response_id = None
 
